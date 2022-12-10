@@ -17,3 +17,22 @@
 {
     width: 300px;
 }
+h1{
+    font-family: cursive;
+    font-weight: bold;
+}
+h4{
+    color: red;
+}
+img{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
+img:hover{
+    border-radius: 140px;
+}
